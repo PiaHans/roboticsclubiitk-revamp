@@ -22,6 +22,7 @@ const navItems = [
     { name: "Alumni", href: "/alumni" },
     { name: "Blogs", href: "/blogs" },
     { name: "IRC 2027", href: "/irc" },
+    { name: "Outreach Activities", href: "/outreach-activities" },
 ];
 
 export function Navbar() {
