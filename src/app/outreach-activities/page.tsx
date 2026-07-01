@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { FileText } from "lucide-react";
+import { Mail } from "lucide-react";
 import Image from "next/image";
 
 // Outreach Activities
@@ -15,7 +15,7 @@ const outreachActivities = [
         description: "A weekly outreach initiative where Robotics Club secretaries visit schools to mentor students in STEM through engaging lessons, practical activities, and hands-on robotics demonstrations, inspiring young minds to explore science and technology.",
         image: "/outreach/school visit JK.jpeg",
         techStack: ["STEM", "School Outreach", "Weekly", "Mentorship", "Sir Padampat Singhania Education Centre : School Kanpur"],
-        docLink: "https://docs.google.com/forms/d/e/1FAIpQLSeQK0qiEjPb0GwYHujgvIQaXhbJZUf-4vmywNLaPaR3VB9P-A/viewform?usp=publish-editor",
+        docLink: "mailto:roboticsclubiitkanpur@gmail.com?subject=School%20STEM%20Outreach%20Request",
     },
 
 
@@ -97,7 +97,7 @@ export default function OutreachActivitiesPage() {
                                             <div className="flex gap-4 mt-auto">
                                                 <Button className="gap-2 bg-cta text-cta-foreground hover:bg-cta/90 border-none shadow-md shadow-cta/10 transition-all hover:translate-y-[-2px]" asChild>
                                                     <a href={activity.docLink} target="_blank" rel="noopener noreferrer">
-                                                        <FileText className="h-4 w-4" /> Request a School Visit                                                    </a>
+                                                        <Mail className="h-4 w-4" /> Request a School Visit                                                    </a>
                                                 </Button>
                                             </div>
                                         </div>
