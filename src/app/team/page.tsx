@@ -71,7 +71,6 @@ const secretaries = [
     { name: "Yashwant", role: "Secretary", image: "/Team/Yashwant Soni.png", linkedin: "https://www.linkedin.com/in/yashwant-soni-68b8b4376", github: "https://github.com/yashwantsoni3906-bit", email: "Yashwantsoni25@iitk.ac.in" },
     { name: "Akshay Biju B N", role: "Secretary", image: "/Team/Akshay Biju.jpeg", linkedin: "https://www.linkedin.com/in/akshay-biju-bn/", github: "https://github.com/akshay-biju-bn", email: "akshayb25@iitk.ac.in" },
     { name: "Aryan Deshpande", role: "Secretary", image: "/Team/Aryan Deshpande.png", linkedin: "https://www.linkedin.com/in/aryan-deshpande-9b0672377", github: "https://github.com/aryand079", email: "aryanatuld25@iitk.ac.in" },
-    { name: "Neal Jhawar", role: "Secretary", image: "/Team/Neal Jhawar.jpeg", linkedin: "https://www.linkedin.com/in/neal-jhawar-0b49b0379/", github: "https://github.com/NealJhawar", email: "neal25@iitk.ac.in" },
     { name: "Anshruta Das", role: "Secretary", image: "/Team/Anshruta Das.jpg", linkedin: "#", github: "#", email: "anshrutad25@iitk.ac.in" },
     { name: "Saanvi Singh", role: "Secretary", image: "/Team/Saanvi Singh.jpg", linkedin: "#", github: "https://github.com/singhsaanvi019", email: "saanvisingh25@iitk.ac.in" },
     { name: "Ch Uday Adithya", role: "Secretary", image: "/Team/Uday Adithya.jpeg", linkedin: "https://www.linkedin.com/in/uday-adithya-chintapalli-164333386", github: "https://github.com/ua82-byte", email: "adithyauc25@iitk.ac.in" },
